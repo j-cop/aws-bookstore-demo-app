@@ -1,3 +1,4 @@
+/**Jack Coplestone 1504624*/
 export default {
   apiGateway: {
     REGION: "us-east-1",

@@ -1,3 +1,4 @@
+/**Jack Coplestone 1504624*/
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",
