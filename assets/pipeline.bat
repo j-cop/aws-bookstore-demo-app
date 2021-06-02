@@ -6,7 +6,7 @@ if errorlevel 1 (
     exit /b %errorlevel%
 )
 
-
+yarn test
 
 REM Dont put anything below this!
 cd ..
